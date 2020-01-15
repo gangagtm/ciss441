@@ -1,2 +1,2 @@
 # ciss441
-Put the code from class. 
+Put the code from class meetings and project demos. 

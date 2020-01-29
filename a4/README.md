@@ -1,6 +1,6 @@
 #Assignment a4
 
-App that opens dataset with the python CSV module
+App that opens a dataset of top 100 spotify tracks of 2018 with the python CSV module and prints 10 rows of data
 
  ```
  Gangas-MacBook-Pro:dictionaries gangagautam$ python3 top2018_csv_reader.py

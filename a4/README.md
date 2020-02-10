@@ -1,4 +1,4 @@
-#Assignment a4
+# Assignment a4
 
 App that opens a dataset of top 100 spotify tracks of 2018 with the python CSV module and prints 10 rows of data
 

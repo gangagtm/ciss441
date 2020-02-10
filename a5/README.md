@@ -1,6 +1,6 @@
 # Assignment a5
 
- App that opens a dataset with python CSV module and inserts data into an SQLite3 database file. 
+ Script that opens a dataset with python CSV module and inserts data into an SQLite3 database file. 
  
  ```
  sqlite> select * from ratings LIMIT 10;
